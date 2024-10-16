@@ -1,0 +1,17 @@
+//
+//  ios_challengeTests.swift
+//  ios-challengeTests
+//
+//  Created by Cora on 16/10/24.
+//
+
+import Testing
+@testable import ios_challenge
+
+struct ios_challengeTests {
+
+    @Test func example() async throws {
+        // Write your test here and use APIs like `#expect(...)` to check expected conditions.
+    }
+
+}
